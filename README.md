@@ -31,13 +31,15 @@ Use Python with SQLAlchemy, Flask libraries to analyze a sqlite dataset.
 ### June Temperature Statistics
 - June had an average temperature of 75 degrees F, median of 75 degrees F and a standard deviation of 3.26 degrees.
 - Outlier min and max temperatures range from 64 to 85 degrees respectively.
+
 ![June Stats](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/June%20Statistics.png)
 - The dataset resembles a normal distribution tightly concentrated around the middle using 10 evenly spaced bins:
-- ![June Histogram](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/June%20Temp%20Histogram.png)
+![June Histogram](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/June%20Temp%20Histogram.png)
 
 ### December Temperature Statistics
 - December had an average temperature of 71 degrees F, median of 71 degrees F with a standard deviation of 3.75 degrees.
-- Outlier min and max temperatures range from 56 to 83 degrees respectively. 
+- Outlier min and max temperatures range from 56 to 83 degrees respectively.
+ 
 ![December Stats](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/Dec%20Statistics.png)
 - The dataset resembles a normal distribution tightly concentrated around the middle using 10 evenly spaced bins:
-- ![December Histogram](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/Dec%20Temp%20Histogram.png)
+![December Histogram](https://github.com/srfassihi/surfs_up/blob/bb04e60f48ab857a5c471e0c253ad609b0a4746b/Resources/Dec%20Temp%20Histogram.png)
